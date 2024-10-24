@@ -1,6 +1,8 @@
 = Title of the Thesis
 
 #set page(margin: (left: 3cm, right: 2cm))
+#set par(leading: 1.5em)
+#set text(font: "Times New Roman")
 
 #outline()
 
